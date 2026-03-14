@@ -2,23 +2,13 @@
 
 
 
-*An interactive chatbot-style portfolio built with \*\*HTML, CSS, and JavaScript\*\*.*  
+*An interactive chatbot-style portfolio built with **HTML, CSS, and JavaScript**.*  
 
-*Visitors can explore my \*\*AI/ML skills, work experience, and achievements\*\* through a chat interface.*
-
-
-
-
-
-* [Running Site](https://vinayak-09.github.io/)
-
-[!\[N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+*Visitors can explore my **AI/ML skills, work experience, and achievements** through a chat interface.*
 
 
 
 ## 🛠Technologies Used
-
-
 
 * HTML
 * Javascript
@@ -27,8 +17,6 @@
 
 
 ## ✨Features
-
-
 
 * Chatbot-style portfolio interface
 * Commands to explore profile sections
@@ -45,15 +33,11 @@
 
 <br>
 
-[!\[GitHub](images/github.svg)](https://github.com/deepak7642)
+[GitHub](https://github.com/deepak7642)
 
+[LinkedIn](https://www.linkedin.com/in/deepak-kaura-66a903162)
 
-
-[!\[LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/deepak-kaura-66a903162)
-
-
-
-[!\[Email](images/gmail.svg)](mailto:kauradeepak26@gmail.com)
+[Email](mailto:kauradeepak26@gmail.com)
 
 <br>
 
