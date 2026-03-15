@@ -22,7 +22,6 @@
 * Resume download option
 * Social contact links
 
-<br><br>
 
 ## 🤝Connect with Me:
 
